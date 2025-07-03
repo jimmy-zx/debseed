@@ -1,0 +1,2 @@
+# debseed
+Debian preseed file
